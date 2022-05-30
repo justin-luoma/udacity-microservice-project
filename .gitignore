@@ -1,0 +1,7 @@
+*set_env.sh
+.idea/
+*.env
+*node_modules/
+udagram-api/
+aws-secret.yaml
+env-secret.yaml
